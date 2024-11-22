@@ -1,1 +1,1 @@
-![Statistics](https://nbviewer.org/github/ChloeWu822/DataScience/blob/main/Statistics.ipynb)
+[Statistics](https://nbviewer.org/github/ChloeWu822/DataScience/blob/main/Statistics.ipynb)
